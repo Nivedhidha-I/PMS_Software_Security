@@ -9,4 +9,5 @@
         "app_id": 1,
         "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$UfaXHvnDjqcVitTlkzzUcA$286ym70E+urpAeD4mivASuM3O1gfJ4HXIwofwxacdyM"
     }
+
 }
