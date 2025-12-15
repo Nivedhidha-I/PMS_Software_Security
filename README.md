@@ -1,4 +1,4 @@
-#Developing a Password Management System: A Shift-Left Approach to Security in the Software Development Lifecycle
+# Developing a Password Management System: A Shift-Left Approach to Security in the Software Development Lifecycle
 
 ##Project Summary
 
